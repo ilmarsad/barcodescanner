@@ -6,9 +6,6 @@ ext {
     pomArtifactId = "core"
     pomName = "Barcode Scanner View"
     pomDescription = 'An android library project which contains the core barcode scanner view'
-    sonatypeUserName = ""
-    sonatypePassword = ""
-    sonatatypeRepo = ""
 }
 
 dependencies {
